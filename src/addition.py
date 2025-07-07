@@ -1,5 +1,4 @@
-# Just adding the comments from testing Purpose
-# Adding one more comment for testing Github Actions
+# adding only one comment for testing the actions
 import math
 
 def basic_operations():
